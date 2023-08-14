@@ -1,4 +1,4 @@
-# When-Was-the-Golden-Age-of-Video-Games
+# When-Was-the-Golden-Age-of-Video-Games (SQL)
 ## 1. The ten best-selling video games
 
 <p>Video games are big business: the global gaming market is projected to be worth more than $300 billion by 2027 according to <a href="https://www.mordorintelligence.com/industry-reports/global-gaming-market">Mordor Intelligence</a>. With so much money at stake, the major game publishers are hugely incentivized to create the next big hit. But are games getting better, or has the golden age of video games already passed?</p>
